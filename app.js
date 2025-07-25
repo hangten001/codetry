@@ -4,6 +4,6 @@ let z = x + y;
 
 console.log(z);
 
-let name = "YanskiDev!!!!";
+let naame = "YanskiDev!!!!";
 
 console.log(name);

@@ -6,4 +6,4 @@ console.log(z);
 
 let name = "YanskiDev!!!!";
 
-console.log(namee);
+console.log(name);
